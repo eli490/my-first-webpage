@@ -13,3 +13,9 @@ p {
 ul {
 	line-height: 40px;
 }
+.author {
+	color: red;
+}
+p.author {
+	font-size: 12px;
+}
